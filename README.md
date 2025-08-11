@@ -16,3 +16,7 @@ Uses a custom `(X)` notation to represent overlined Roman numerals (e.g., `(X)` 
 - Works directly in your browser — no server required
 
 ---
+
+## 📜 License
+
+This project is licensed under the MIT License — you can freely use, modify, and distribute it.
