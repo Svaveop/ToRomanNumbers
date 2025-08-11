@@ -20,3 +20,11 @@ Uses a custom `(X)` notation to represent overlined Roman numerals (e.g., `(X)` 
 ## 📜 License
 
 This project is licensed under the MIT License - you can freely use, modify, and distribute it.
+
+---
+
+## ⚠️ Notes
+
+ - Standard Roman numerals only go up to 3,999.
+
+ - For larger values, I use ( ) brackets to indicate overline (×1000) notation.
